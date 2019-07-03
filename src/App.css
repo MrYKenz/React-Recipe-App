@@ -2,6 +2,10 @@ body {
   font-family: 'Montserrat', sans-serif !important;
 }
 
+a:hover {
+  text-decoration: none;
+}
+
 .text-special {
   font-family: 'DM Serif Display', serif;
 }
