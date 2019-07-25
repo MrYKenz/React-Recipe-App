@@ -8,7 +8,6 @@ class App extends Component {
     recipes: [],
     url: "https://www.food2fork.com/api/search?key=2f32da5a70c6ace1461df1080b93bb84",
     base_url: "https://www.food2fork.com/api/search?key=2f32da5a70c6ace1461df1080b93bb84",
-    // details_id: 35382,
     pageIndex: 1,
     search: "",
     query: "&q=",
